@@ -1,6 +1,7 @@
 # Dev Controle - Sistema de Gerenciamento de Clientes e Chamados
 ### Dev Controle é um sistema web desenvolvido com Next.js, Prisma ORM, MongoDB e TailwindCSS para gerenciar clientes e chamados de atendimento de forma eficiente e fácil.
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_25_PM](https://github.com/user-attachments/assets/625fecb1-acd2-4fe6-b536-0e26dd5cdac1)
+![image](https://github.com/user-attachments/assets/926978f8-11f3-4e14-8d14-5a13c0918e44)
+
 
 ## Funcionalidades
 ### Autenticação com Google: Login e autenticação usando o NextAuth com o provedor Google.
@@ -22,16 +23,18 @@
 
 ### Como Usar
 ### Criar um Novo Cliente
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_30_PM](https://github.com/user-attachments/assets/905f2e9b-b1e1-4678-b666-0315ca833a99)
-
 ### Vá até a página de clientes.
 ### Clique em "Novo Cliente".
 ### Preencha os campos necessários como nome, email, telefone e endereço.
+![image](https://github.com/user-attachments/assets/90617f09-9ded-42b3-85fc-1fd1f1497e3c)
+
+
 ### O cliente será salvo no banco de dados e listado na página de clientes.
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_28_PM](https://github.com/user-attachments/assets/36aa330a-e4df-449b-a41a-9db6d1135b34)
+![image](https://github.com/user-attachments/assets/acd900e8-47d7-4f23-a4c9-c1924347be12)
+
 
 ### Abrir um Novo Chamado
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_30_PM](https://github.com/user-attachments/assets/fd87f52a-a75b-4262-93cc-20098e0e1aee)![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_29_PM](https://github.com/user-attachments/assets/66e62471-8381-447b-a5f3-54391ec1eebd)
+![image](https://github.com/user-attachments/assets/d11daee1-2c7e-4f02-b0e5-07a90102dffa)
 
 
 ### Abrir um Chamado sem Login
@@ -41,13 +44,15 @@
 ### O usuário acessa o link público.
 ### Preenche os dados necessários, como descrição do problema e informações de contato.
 ### O chamado é registrado no sistema com status "Aberto".
-![Uploading Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_29_PM.png…]()
+![image](https://github.com/user-attachments/assets/243a42cb-6779-4d75-8dc0-c2bbb308c08b)
+
 
 
 ### Acesse o dashboard.
 ### Clique em "Abrir Chamado".
 ### Associe o chamado a um cliente e defina o status como "Aberto".
 ### O chamado será registrado é listado na interface.
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_26_PM](https://github.com/user-attachments/assets/3cbd7965-5bcd-4197-a4c6-d8996b7580aa)
-![Dev-Controle-seu-sistema-de-gerenciamento--11-27-2024_09_27_PM](https://github.com/user-attachments/assets/31d3c85a-23cf-4db1-85f5-37bd33cffe9a)
+![image](https://github.com/user-attachments/assets/8260c3a8-948a-4d18-b659-4e7bcf8521c8)
+![image](https://github.com/user-attachments/assets/556e6d40-cc13-407a-b7fa-b820b4d3eb9e)
+
 
