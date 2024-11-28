@@ -1,5 +1,5 @@
 import Image from "next/image";
-import heroImg from "@/assets/hero.svg"
+import heroImg from "@/assets/new.jpg"
 
 export default function Home() {
   return (
